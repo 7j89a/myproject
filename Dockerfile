@@ -14,4 +14,4 @@ COPY . /app
 RUN pip install --no-cache-dir -r requirements.txt
 
 # تحديد الأمر الذي سيتم تشغيله عند بدء الحاوية
-CMD ["python", "your_script.py"]
+CMD ["python", "bot.py"]
