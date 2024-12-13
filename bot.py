@@ -11,7 +11,7 @@ import re
 # بيانات الاتصال بالبوت
 api_id = 20944746  # استبدل بـ API ID الخاص بك
 api_hash = "d169162c1bcf092a6773e685c62c3894"  # استبدل بـ API Hash الخاص بك
-bot_token = "7484204140:AAFZ0iTmUvPbkzubIsbMabizwCIuYXQ9Nps"  # استبدل بـ توكن البوت الخاص بك
+bot_token = "7701589300:AAG-64FpYOaXkH1OnTXgD08Fk84j4A3dwp4"  # استبدل بـ توكن البوت الخاص بك
 
 # تشغيل البوت
 app = Client("downloader_bot", api_id=api_id, api_hash=api_hash, bot_token=bot_token)
